@@ -5,7 +5,7 @@ import java.awt.*;
 public class gatosFav {
     String id;
     String image_id;
-    String apikey="live_sF77pL6RfEMZjfyW022EHJlq1yNhhO1BBN2c2wRwzRL6hSkEG3IfSzPj1RPTK0yb";
+    String apikey="aqui va nuestra apikey";
     imagex image;
 
     public String getId() {
